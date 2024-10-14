@@ -8,8 +8,8 @@ https://cloudvyzor.com/logpad
 
 
 ## Challenge Submission
-- Identify the URI of the admin login panel that the attacker gained access to (include the token) (3 points)
-  wp-login.php?*token=*
+ Identify the URI of the admin login panel that the attacker gained access to (include the token) (3 points)
+ - wp-login.php?*token=*
   
 - Can you find two tools the attacker used? (3 points)
   wp-login.php  -wp-incl -css -admin -js
