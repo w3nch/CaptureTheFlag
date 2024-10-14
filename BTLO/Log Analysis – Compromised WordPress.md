@@ -37,11 +37,13 @@ Q2. Can you find two tools the attacker used? (3 points)
 Q3. The attacker tried to exploit a vulnerability in ‘Contact Form 7’. What CVE was the plugin vulnerable to? (Do some research!) (4 points)
 
 - [https://blog.wpsec.com/contact-form-7-vulnerability/](https://blog.wpsec.com/contact-form-7-vulnerability/)
+- CVE-2020-35489: Unrestricted File Upload Vulnerability
+- Now we know the vulnerability is in the upload we will search for upload
+
 
 Q4. What plugin was exploited to get access? (4 points)
 
-- CVE-2020-35489: Unrestricted File Upload Vulnerability
-- Now we know the vulnerability is in the upload we will search for upload
+-  Simple file list 4.2.2
 
 Q5. What is the name of the PHP web shell file? (3 points)
 
